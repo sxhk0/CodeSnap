@@ -68,9 +68,9 @@
         },
         "codesnap.roundedCorners": {
           "scope": "resource",
-          "type": "boolean",
-          "default": true,
-          "description": "Use rounded corners for the window"
+          "type": "integer",
+          "default": 4,
+          "description": "Set rounded corners for the window"
         },
         "codesnap.showWindowControls": {
           "scope": "resource",
